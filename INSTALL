@@ -1,0 +1,9 @@
+Building BeaoCoin
+
+See doc/readme-qt.rst for instructions on building BeaoCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BeaoCoin.
+
+See doc/build-*.txt for instructions on building BeaoCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of BeaoCoin.
